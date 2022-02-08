@@ -1,0 +1,11 @@
+.container button{
+    padding: 10px 20px;
+    background-color: aqua;
+    border-radius: 30px;
+    border-style: none;
+    font-size: 20px;
+
+}
+h1{
+    color: green;
+}

@@ -37,3 +37,7 @@ document.getElementById("lightBlue").addEventListener('click', function () {
 document.getElementById("khaki").addEventListener("click", function () {
   document.body.style.background = "khaki";
 });
+
+document.getElementById('green').addEventListener('click', function () {
+    document.body.style.background='navy'
+})
